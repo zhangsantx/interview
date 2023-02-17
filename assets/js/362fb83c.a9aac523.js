@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterview=self.webpackChunkinterview||[]).push([[9270],{4601:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/interview/blog/tags/hola","allTagsPath":"/interview/blog/tags","count":1}')}}]);

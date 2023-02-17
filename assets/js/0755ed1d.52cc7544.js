@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterview=self.webpackChunkinterview||[]).push([[8253],{5838:e=>{e.exports=JSON.parse('{"label":"\u56fe","permalink":"/interview/docs-data/tags/\u56fe","allTagsPath":"/interview/docs-data/tags","count":1,"items":[{"id":"\u56fe","title":"\u56fe","description":"\u4ec0\u4e48\u662f\u56fe","permalink":"/interview/docs-data/\u56fe"}]}')}}]);
